@@ -1,0 +1,3 @@
+﻿  C++.cpp
+F:\Programming\C++\Projects\Stone-Paper-Scissors\C++.cpp(53): warning C4715: 'CheckRoundWinner': not all control paths return a value
+  C++.vcxproj -> F:\Programming\C++\Projects\Stone-Paper-Scissors\x64\Debug\C++.exe
